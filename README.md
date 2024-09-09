@@ -22,7 +22,7 @@
 View table
 </summary>
 
-`balanced_tree.product_details` includes all information about the entire range that Balanced Clothing sells in their store.
+`TopoDesigns.Product_Details` includes all information about the entire range that Balanced Clothing sells in their store.
 
 | "product_id" | "price" | "product_name"                     | "category_id" | "segment_id" | "style_id" | "category_name" | "segment_name" | "style_name"          |
 |--------------|---------|------------------------------------|---------------|--------------|------------|-----------------|----------------|-----------------------|
