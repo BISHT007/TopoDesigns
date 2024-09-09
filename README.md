@@ -48,12 +48,12 @@ View table
 View table
 </summary>
 
-`balanced_tree.sales` contains product level information for all the transactions made for Balanced Tree including quantity, price, percentage discount, member status, a transaction ID and also the transaction timestamp.
+`TopoDesigns.Product_Sales` contains product level information for all the transactions made for Balanced Tree including quantity, price, percentage discount, member status, a transaction ID and also the transaction timestamp.
 
 Below is the display of the first 10 rows in this dataset:
 
 
-| "prod_id" | "qty" | "price" | "discount" | "member" | "txn_id" | "start_txn_time"           |
+| "prod_id" | "qty" | "price" | "discount" | "member" | "txn_id" | "start_txn_time          |
 |-----------|-------|---------|------------|----------|----------|----------------------------|
 | "c4a632"  | 4     | 13      | 17         | True     | "54f307" | "2021-02-13 01:59:43.296"  |
 | "5d267b"  | 4     | 40      | 17         | True     | "54f307" | "2021-02-13 01:59:43.296"  |
@@ -67,6 +67,17 @@ Below is the display of the first 10 rows in this dataset:
 | "c4a632"  | 1     | 13      | 21         | False    | "ef648d" | "2021-01-27 02:18:17.1648" |
 
 </details>
+
+### **```Product Price```**
+
+<details>
+<summary>
+View table
+</summary>
+
+`TopoDesigns.Product_Price`
+</details>
+
 
 
 ## 🧙‍♂️ Case Study Questions
