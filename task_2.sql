@@ -87,7 +87,7 @@ group by pd.Parent_id_category,pd.Parent_id_segment
 select ph.level_text,round(100*sum(f.amount*(1-(cast(f.discount as float)/100)))/(select sum(f.amount*(1-(cast(f.discount as float)/100))) from Final_Raw_Data as f),2) as total_revenue from Final_Raw_Data as f inner join Product_Hierarchy as ph on f.Parent_id_category=ph.Parent_id
 group by ph.level_text
 
---Q18. What is the total transaction ìpenetrationî for each product?  
+--Q18. What is the total transaction ‚Äúpenetration‚Äù for each product?  
 select f.product_name,count(distinct f.txn_id) from Final_Raw_Data as f
 group by f.product_name
 
