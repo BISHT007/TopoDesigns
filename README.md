@@ -76,9 +76,60 @@ View table
 </summary>
 
 `TopoDesigns.Product_Price`
+
+product_id	price
+c4a632	13
+e83aa3	32
+e31d39	10
+d5e9a6	23
+72f5d4	19
+9ec847	54
+5d267b	40
+c8d436	10
+2a2353	57
 </details>
 
+### **```Product Hierarchy```**
 
+<details>
+<summary>
+View table
+</summary>
+
+`TopoDesigns.Product_Hierarchy`
+
+Parent_id	Level_code	level_text	level_name
+1	0	Womens	Category
+2	0	Mens	Category
+3	1	Jeans	Segment
+4	1	Jacket	Segment
+5	1	Shirt	Segment
+6	1	Socks	Segment
+7	2	Navy Oversized	Style
+8	2	Black Straight	Style
+9	2	Cream Relaxed	Style
+</details>
+
+### **```User```**
+
+<details>
+<summary>
+View table
+</summary>
+
+`TopoDesigns.Users`
+
+User_id	cookie_id	Gender	Location
+1	c4ca42	F	South
+2	c81e72	M	South
+3	eccbc8	F	South
+4	a87ff6	F	North
+5	e4da3b	M	South
+6	e4da3c	M	South
+7	8f14e4	M	North
+8	c9f0f8	M	North
+9	45c48c	F	South
+</details>
 
 ## 🧙‍♂️ Case Study Questions
 <p align="center">
