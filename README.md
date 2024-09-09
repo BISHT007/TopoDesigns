@@ -131,6 +131,10 @@ User_id	cookie_id	Gender	Location
 9	45c48c	F	South
 </details>
 
+## 🧙‍♂️ Data Preparation
+> To perform exploratory data analysis, I have combined all the above tables as 'final_raw_data'.
+> TO perform analysis at customer level, I have formed a new file 'customer_360'.
+
 ## 🧙‍♂️ Case Study Questions
 <p align="center">
 <img src="https://media3.giphy.com/media/JQXKbzdLTQJJKP176X/giphy.gif" width=80% height=80%>
