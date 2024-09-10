@@ -6,7 +6,6 @@
   - 🛠️ [Problem Statement](#problem-statement)
   - 📂 [Dataset](#dataset)
   - 🧙‍♂️ [Case Study Questions](#case-study-questions)
-  -  🚀 [Solutions](#-solutions)
 
 ## 🛠️ Problem Statement
 
